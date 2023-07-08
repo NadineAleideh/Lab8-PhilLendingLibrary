@@ -26,10 +26,10 @@ To use Phil's Lending Library, follow these step-by-step directions:
      - This option lets you borrow a book from the library by entering the title of the book you want to borrow.
    - Option 4: Return a Book
      - This option allows you to return a book to the library. You will be prompted to select a book from your backpack to return.
-   - Option 5: Search a Book by Title
-     - This option enables you to search for a book in the library by its title. Enter the title you want to search for, and the application will display the book details if found.
-   - Option 6: View Book Bag
+   - Option 5: View Book Bag
      - This option shows you the list of books currently in your backpack.
+   - Option 6: Search a Book by Title
+     - This option enables you to search for a book in the library by its title. Enter the title you want to search for, and the application will display the book details if found.
    - Option 7: Exit
      - Selecting this option will exit the application.
 
@@ -45,7 +45,7 @@ To use Phil's Lending Library, follow these step-by-step directions:
 - The library maintains a backpack where you can store borrowed books. The backpack can be used to pack and unpack items.
 - The application provides feedback and prompts for user input to guide you through the available options.
 - The book information is stored in memory during runtime and is not persisted across sessions.
-- The project functionality is fully tested you can check the ests [Here](./TestProject1/UnitTest1.cs). 
+- The project functionality is fully tested you can check the tests [Here](./TestProject1/UnitTest1.cs). 
 
 That's all you need to know to start using Phil's Lending Library! Enjoy managing your books and happy reading!
 
